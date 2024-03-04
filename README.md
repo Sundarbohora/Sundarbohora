@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sundar Bohora:
 🔭 I’m currently working in Spectrum as a IT Technician<br>👯 I’m looking to collaborate on software developer projects<br>🤝 I’m looking for help with landing entry-level developer roles<br>🌱 I’m currently working on Springboot projects<br>💬 Ask me about  my journey and life stories<br>⚡ Fun fact: I cant swim
 
 
